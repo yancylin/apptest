@@ -69,7 +69,7 @@ class _ExampleState extends State<Example> {
                   withScaffold: false),
               // PageInfo("FutureBuilder和StreamBuilder",
               //     (ctx) => FutureAndStreamBuilderRoute()),
-              // PageInfo("对话框", (ctx) => DialogRoute()),
+              PageInfo("对话框", (ctx) => DialogRoute1()),
             ]),
           ),
           ExpansionTile(
